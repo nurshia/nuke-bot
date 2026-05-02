@@ -1,4 +1,4 @@
-# 🚀 AntiGravity Discord Bot
+# 🚀Nuke BOT
 
 Discord sunucunuz için gelişmiş yönetim ve otomasyon botu. Modern Discord.js v14 altyapısı ile hem slash komutları hem de prefix komutları destekler.
 
